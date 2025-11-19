@@ -58,6 +58,3 @@ Once the vault is set up, visit the [[Home|🏠 Home page]] for:
 - Use `Cmd/Ctrl + O` for quick switcher
 - Check the Home page for navigation links
 
----
-
-For detailed usage instructions, see the [[Home|🏠 Home page]].
