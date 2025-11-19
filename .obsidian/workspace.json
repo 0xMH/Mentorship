@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tasks/Week-1-todos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Week-1-todos"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
+    "Templates/Week-Complete-Template.md",
+    "Wizards/A/🧙‍♂️🪄 Grimoire.md",
+    "Wizards/D/🧙‍♂️🪄 Grimoire.md",
+    "Wizards/G/🧙‍♂️🪄 Grimoire.md",
     "README.md",
+    "Home.md",
     "Curriculums.md",
     "Curriculums 1.md",
     "MOCs/📚 Wizards MOC.md",
@@ -194,7 +198,6 @@
     "MOCs/📖 Curriculums MOC.md",
     "Wizards/D/Week-1/Notes.md",
     "Wizards/D/Week-1/Tasks.md",
-    "Wizards/D/🧙‍♂️🪄 Grimoire.md",
     "Wizards/D/Week-1",
     "Untitled.md",
     "Shared Docs/README.md",
@@ -214,13 +217,10 @@
     "Attachments/Pasted image 20251117123926.png",
     "Attachments/Pasted image 20251111201756.png",
     "Attachments",
-    "Templates/Week-Complete-Template.md",
     "Wizards/L/🧙‍♂️🪄 Grimoire.md",
     "Shared Docs",
     "Getting Started with Obsidian.md",
     "Curriculums/Week-3.md",
-    "Wizards/G/🧙‍♂️🪄 Grimoire.md",
-    "Wizards/A/🧙‍♂️🪄 Grimoire.md",
     "Wizards/D/Week-2/Notes.md",
     "Wizards/D/Week-2/Tasks.md",
     "Wizards/D/Week-2",
