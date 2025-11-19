@@ -1,0 +1,19 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "openOnStartup": true,
+      "hasRibbonIcon": true,
+      "openMode": "default",
+      "view": "default",
+      "openWhenEmpty": true,
+      "refreshDataview": true,
+      "autoCreate": false,
+      "autoScroll": false,
+      "value": "Home",
+      "kind": "File",
+      "commands": []
+    }
+  },
+  "separateMobile": false
+}
