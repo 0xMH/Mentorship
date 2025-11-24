@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Week-1-todos.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-1-todos"
+              "title": "Home"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Tasks/Week-1-todos.md",
     "Templates/Week-Complete-Template.md",
     "Wizards/A/🧙‍♂️🪄 Grimoire.md",
     "Wizards/D/🧙‍♂️🪄 Grimoire.md",
@@ -207,7 +208,6 @@
     "Tasks/Week-2-todos.md",
     "Curriculums/Week-2.md",
     "Curriculums/Week-1.md",
-    "Tasks/Week-1-todos.md",
     "Attachments/tdilao8adxb41.jpg",
     "Attachments/Pasted image 20251117214211.png",
     "Attachments/Pasted image 20251117213615.png",
