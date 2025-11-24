@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "2b8db34d1a7e1e6b",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "38daec21f1c91e57",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "69f66a24c3879c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Wizards/L/Week-1/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Notes"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9e8451b4970eee1",
+    "id": "6d28f164bcd406eb",
     "type": "split",
     "children": [
       {
-        "id": "fadbca87fbcac011",
+        "id": "d842c3682bcdbd5c",
         "type": "tabs",
         "children": [
           {
-            "id": "8dfaf2a59e6627fd",
+            "id": "0058894e0bcd9c0e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "7f7fea293ff7c987",
+            "id": "5f5ee78a29a7fd0e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "afd8ce3064391dde",
+            "id": "8c84d77eacb77cc1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 300
   },
   "right": {
-    "id": "d28db8c8124b66c3",
+    "id": "51c780313a42c277",
     "type": "split",
     "children": [
       {
-        "id": "ceaf4106369d126f",
+        "id": "cb1b90f71d2b748e",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b21cee557a40bd",
+            "id": "08ee2d9419cb7741",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Week-1-todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week-1-todos"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "b8409307489b6ceb",
+            "id": "b64892c530576e7d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Week-1-todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Week-1-todos"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "059f5cc741a9be73",
+            "id": "a97484a775334b20",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,75 +135,82 @@
             }
           },
           {
-            "id": "d79f4100fee68c41",
+            "id": "65a8c4eedd273ed5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "5ac996f5f8ed064c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Week-1-todos.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week-1-todos"
-            }
-          },
-          {
-            "id": "f216946682b627b0",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
+              "title": "Outline of Welcome"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "69f66a24c3879c46",
   "lastOpenFiles": [
-    "Tasks/Week-1-todos.md",
-    "Templates/Week-Complete-Template.md",
-    "Wizards/A/🧙‍♂️🪄 Grimoire.md",
-    "Wizards/D/🧙‍♂️🪄 Grimoire.md",
-    "Wizards/G/🧙‍♂️🪄 Grimoire.md",
-    "README.md",
-    "Home.md",
-    "Curriculums.md",
-    "Curriculums 1.md",
-    "MOCs/📚 Wizards MOC.md",
-    "Wizards.md",
-    "MOCs/📖 Curriculums MOC.md",
-    "Wizards/D/Week-1/Notes.md",
-    "Wizards/D/Week-1/Tasks.md",
-    "Wizards/D/Week-1",
+    "Wizards/L/Week-1/Tasks.md",
+    "Wizards/L/🧙‍♂️🪄 Grimoire.md",
+    "Wizards/L/Week-1/Notes.md",
+    "Wizards/L/Week-1",
     "Untitled.md",
-    "Shared Docs/README.md",
-    "Wizards/D/Week-null/Tasks.md",
-    "Wizards/D/Week-null/Notes.md",
-    "Wizards/D/Week-null",
+    "Home.md",
+    "Wizards/G/🧙‍♂️🪄 Grimoire.md",
+    "Wizards/D/🧙‍♂️🪄 Grimoire.md",
+    "Wizards/A/🧙‍♂️🪄 Grimoire.md",
+    "Wizards/L",
+    "Wizards/G",
+    "Wizards/D",
+    "Wizards/A",
+    "Wizards",
+    "Templates/Week-Complete-Template.md",
+    "Templates",
     "Tasks/Week-2-todos.md",
+    "Tasks/Week-1-todos.md",
+    "Tasks",
+    "Shared Docs/README.md",
+    "Shared Docs",
+    "README.md",
+    "MOCs/📚 Wizards MOC.md",
+    "MOCs/📖 Curriculums MOC.md",
+    "MOCs",
     "Curriculums/Week-2.md",
     "Curriculums/Week-1.md",
     "Attachments/tdilao8adxb41.jpg",
@@ -216,20 +221,6 @@
     "Attachments/Pasted image 20251117130658.png",
     "Attachments/Pasted image 20251117123926.png",
     "Attachments/Pasted image 20251111201756.png",
-    "Attachments",
-    "Wizards/L/🧙‍♂️🪄 Grimoire.md",
-    "Shared Docs",
-    "Getting Started with Obsidian.md",
-    "Curriculums/Week-3.md",
-    "Wizards/D/Week-2/Notes.md",
-    "Wizards/D/Week-2/Tasks.md",
-    "Wizards/D/Week-2",
-    "Wizards/A/Week-1",
-    "Pasted image 20251117213615.png",
-    "Students/D",
-    "Students",
-    "Wizards/G/Week-5",
-    "Wizards/G/Week-4",
-    "Pasted image 20251117214211.png"
+    "Welcome.md"
   ]
 }
