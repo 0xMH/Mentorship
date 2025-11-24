@@ -58,3 +58,8 @@ Once the vault is set up, visit the [[Home|🏠 Home page]] for:
 - Use `Cmd/Ctrl + O` for quick switcher
 - Check the Home page for navigation links
 
+**Note about Git and .obsidian settings:**
+- Your personal Obsidian settings (in `.obsidian/`) are automatically ignored by Git
+- You can customize plugins, appearance, and hotkeys without affecting the shared repository
+- Only commit changes to your Grimoire and notes in the `Wizards/` folder
+

@@ -1,0 +1,4 @@
+# Ignore entire .obsidian folder
+# Mentor: Use 'git add -f .obsidian/...' to force-add specific files when needed
+# Students: Your .obsidian changes will be automatically ignored
+.obsidian/
