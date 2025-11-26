@@ -1,9 +1,10 @@
 ---
 wizard: G
-wizard_name: "Wizard G"
-wizard_motto: "Growth through Consistent Practice"
+wizard_name: Wizard G
+wizard_motto: Growth through Consistent Practice
 started_date:
 favorite_topics: []
+topic: Git & GitHub
 ---
 
 # 🧙‍♂️ Wizard G's Grimoire
