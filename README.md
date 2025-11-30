@@ -35,6 +35,41 @@
 
 ---
 
+## Pushing Your Notes
+
+The `main` branch is protected. To push your notes, create a branch and open a Pull Request:
+
+1. **Create your branch**
+   ```bash
+   git checkout -b wizards/<your-name>/week-<number>
+   ```
+
+2. **Make your changes**
+   - Add notes to your Grimoire in `Wizards/<YourName>/`
+   - Complete your weekly tasks
+
+3. **Commit and push**
+   ```bash
+   git add Wizards/<YourName>/
+   git commit -m "Add Week X notes"
+   git push -u origin wizards/<your-name>/week-<number>
+   ```
+
+4. **Open a Pull Request**
+   - Go to the repository on GitHub
+   - Click "Compare & pull request"
+   - Add a brief description and submit
+
+5. **After approval**
+   - Your PR will be merged into `main`
+   - Switch back to main and pull the latest:
+     ```bash
+     git checkout main
+     git pull
+     ```
+
+---
+
 ## Troubleshooting
 
 **Plugins not working?**
