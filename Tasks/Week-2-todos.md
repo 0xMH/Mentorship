@@ -15,7 +15,7 @@ Master the Git workflow used by real development teams.
 
 #### Learning Resources
 **Video Learner?**
-- [ ] Watch [Git Branching Tutorial](https://www.youtube.com/watch?v=1SXpE08hvGs) (30 mins)
+- [ ] Watch [Git Branching Tutorial](https://www.youtube.com/watch?v=1SXpE08hvGs) (5 mins)
 - [ ] Watch [Git & GitHub for Beginners - Complete Course](https://www.youtube.com/watch?v=RGOj5yH7evk) (1 hour)
 
 **Prefer Reading?**
