@@ -23,7 +23,7 @@ type: notes
 ## 💬 Discussion Points for Next Session
 
 **Questions for Mentor:**
-1.
+1. interview Q&A
 2.
 3.
 
