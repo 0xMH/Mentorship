@@ -4,11 +4,11 @@ topic: Linux Fundamentals & The Terminal
 share_link:
 share_updated:
 ---
-# Linux: Where DevOps Actually Lives
+ # Linux: Where DevOps Actually Lives
 
 > **The terminal isn't scary. It's your superpower.**
 
-Here's the thing about servers. They don't have fancy GUIs with buttons and icons. No drag-and-drop. No "right-click, delete." Just a blinking cursor waiting for you to tell it what to do.
+Here's the thing about servers. They don't have fancy GUIs  (Graphical user interface) with buttons and icons. No drag-and-drop. No "right-click, delete." Just a blinking cursor waiting for you to tell it what to do.
 
 And in the server world, Linux dominates. We're talking about 90%+ of all servers running some flavor of Linux. AWS, Azure, GCP, your company's production environment, that random VPS you spun up to learn Docker. All Linux.
 
@@ -62,7 +62,7 @@ Start with **Ubuntu**. Here's why:
 - Huge community, tons of tutorials
 - Most beginner-friendly
 - Very common in production environments
-- If something breaks, someone on Stack Overflow already fixed it
+- **If something breaks, someone on Stack Overflow already fixed it**
 
 Once you're comfortable, the skills transfer. Learning `apt` vs `dnf` is like learning British vs American English. Different words, same language.
 
@@ -130,9 +130,9 @@ Everything in Linux starts from `/` (called "root", not to be confused with the 
 Linux is paranoid about permissions. And that's a good thing.
 
 Every file and directory has three permission types:
-- **Read (r):** Can you see the contents?
-- **Write (w):** Can you modify it?
-- **Execute (x):** Can you run it (for scripts/programs)?
+- **Read (r) (4):** Can you see the contents?
+- **Write (w) (2):** Can you modify it?
+- **Execute (x) (1):** Can you run it (for scripts/programs)?
 
 And three user categories:
 - **Owner:** The user who owns the file
@@ -156,7 +156,7 @@ Let's break that down:
 
 **Changing permissions:**
 ```bash
-chmod 755 script.sh    # Owner: rwx, Group: r-x, Others: r-x
+chmod 754 script.sh    # Owner: rwx, Group: r-x, Others: r--
 chmod +x script.sh     # Add execute permission
 chmod u+w file.txt     # Add write permission for owner
 ```
@@ -174,6 +174,7 @@ chmod 777 everything    # NEVER do this in production
 
 `777` means everyone can read, write, and execute. It's the "I give up on security" permission. You'll see tutorials suggesting it to "fix" permission issues. Don't. Fix the actual problem instead.
 
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fgdontbq7jcsb1.png
 ---
 
 ## Essential Commands You Need to Know
@@ -188,7 +189,7 @@ ls -la                 # What's here? (detailed, including hidden)
 cd /path/to/somewhere  # Go somewhere
 cd ~                   # Go home
 cd ..                  # Go up one level
-cd -                   # Go back to previous directory
+	cd -                     # Go back to previous directory
 ```
 
 ### File Operations
