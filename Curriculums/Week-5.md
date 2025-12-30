@@ -76,12 +76,12 @@ PING google.com (142.250.185.78): 56 data bytes
 
 **Common scenarios:**
 
-| Result | Meaning |
-|--------|---------|
-| Replies with low latency | Connection is healthy |
-| Replies with high latency (>200ms) | Network congestion or distance |
-| Request timeout | Host unreachable or blocking ICMP |
-| Unknown host | DNS resolution failed |
+| Result                             | Meaning                           |
+| ---------------------------------- | --------------------------------- |
+| Replies with low latency           | Connection is healthy             |
+| Replies with high latency (>200ms) | Network congestion or distance    |
+| Request timeout                    | Host unreachable or blocking ICMP |
+| Unknown host                       | DNS resolution failed             |
 
 **Real talk:** Many servers block ping (ICMP) for security reasons. So "ping fails" doesn't always mean "server is down." It might just mean ping is blocked. Don't stop here.
 
